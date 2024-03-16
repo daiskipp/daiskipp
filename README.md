@@ -1,17 +1,13 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiskipp
-)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/daiskipp/daiskipp/output/github-contribution-grid-snake.svg)
 
-<!--
-**daiskipp/daiskipp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# My Best Languages, Frameworks, and Tools
 
-Here are some ideas to get you started:
+<img src="https://skillicons.dev/icons?i=php,laravel,js,vue,,mysql,yarn,npm,wordpress,vscode" /> <br /><br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Programming Languages, Frameworks and Tools
+
+<img src="https://skillicons.dev/icons?i=larave,php,symfony,wordpress,html,css,sass,tailwind,js,jquery,typescript,webpack,supabase,react,vue,nodejs,npm,next,graphql,sqlite,mysql,postgres,redis,postman,github,gitlab,heroku,vercel,vscode,figma,docker,ansible,apple,linux,ubuntu,nginx,,aws,bash,bootstrap,bun,cloudflare,discord,ai,ps,obsidian,svg" /> <br /><br />
+
+# NOW TRAINING
+
+<img src="https://skillicons.dev/icons?i=ssolidity,graphql,ipfs,prisma,remix,rust,upabase,react,astro,wasm" /> <br /><br />
